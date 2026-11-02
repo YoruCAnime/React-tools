@@ -2,7 +2,7 @@
 // @name         Konosuba Reaction Reframer (Google Drive)
 // @namespace    konosuba-drive-reframer
 // @version      1.0.0
-// @description  For the "konosuba s2-movie-s3-s3ova1-2" Google Drive folder: the anime window enlarged on the left with its subtitles whole, the streamers on the right (Wes and Steph; FreshestAnime on the two S3 OVAs). R or the small button switches the framing.
+// @description  For the "konosuba s2-movie-s3-s30va1-2" Google Drive folder: the anime window enlarged on the left with its subtitles whole, the streamers on the right (Wes and Steph; FreshestAnime on the two S3 OVAs). R or the small button switches the framing.
 // @homepageURL  https://github.com/YoruCAnime/React-tools
 // @updateURL    https://raw.githubusercontent.com/YoruCAnime/React-tools/main/konosuba-drive/konosuba-drive-reframer.user.js
 // @downloadURL  https://raw.githubusercontent.com/YoruCAnime/React-tools/main/konosuba-drive/konosuba-drive-reframer.user.js
